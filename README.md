@@ -2,7 +2,7 @@
 
 ![MHGNA](https://img.shields.io/badge/version-1.2.0-blue.svg)  
 **Last Updated:** April 24, 2025  
-**Author:** [Your Name]  
+**Author:** dravitch 
 **Contributors:** Claude, Gemini
 
 ## Overview
