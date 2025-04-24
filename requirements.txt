@@ -1,0 +1,12 @@
+numpy
+pandas
+yfinance
+matplotlib
+seaborn
+networkx
+scikit-learn
+scipy
+dash
+plotly
+requests
+python-dateutil

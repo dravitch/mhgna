@@ -1,0 +1,82 @@
+============================================================
+ MHGNA FOREX ANALYSIS REPORT - 2025-04-13 00:00
+============================================================
+
+--- 1. TOP FOREX PAIR RECOMMENDATIONS ---
+            Rank  Score Direction Momentum Stability Carry Score Real Rate Diff Return 30d Optimal Session
+Forex Pair                                                                                                
+GBPUSD=X       1  0.567   NEUTRAL    0.000    10.829       0.000          0.000      3.12%          Europe
+USDCAD=X       2  0.554   NEUTRAL    0.000    12.421       0.000          0.000     -3.41%         America
+EURUSD=X       3  0.545   NEUTRAL    0.000     7.179       0.000          0.000      9.32%          Europe
+USDJPY=X       4  0.437   NEUTRAL    0.000     7.417       0.000          0.000     -4.35%            Asia
+AUDUSD=X       5  0.414   NEUTRAL    0.000     4.918       0.000          0.000     -0.14%            Asia
+
+  Interpretation Notes:
+  - Score: Overall attractiveness based on combined metrics.
+  - Direction: Suggested trade direction (LONG/SHORT) based on momentum.
+  - Centrality: Importance within the network.
+  - Momentum: Recent trend strength.
+  - Stability: Inverse volatility (higher is more stable).
+  - Carry Score: Risk-adjusted interest rate differential.
+  - Real Rate Diff: Interest diff minus inflation diff.
+  - Optimal Session: Session with highest simulated activity weight.
+
+--- 2. ACTIVE ALERTS ---
+
+  * Bb Breakout Down (3):
+    - BB Breakout Down: USDJPY=X at 143.4900 (Band: 144.5479)
+    - BB Breakout Down: USDCHF=X at 0.8149 (Band: 0.8349)
+    - BB Breakout Down: USDCAD=X at 1.3951 (Band: 1.4050)
+
+  * Bb Breakout Up (1):
+    - BB Breakout Up: EURUSD=X at 1.1364 (Band: 1.1171)
+
+  * Drawdown (5):
+    - Drawdown: USDJPY=X at -11.22% (Threshold: -3.0%)
+    - Drawdown: GBPUSD=X at -3.24% (Threshold: -3.0%)
+    - Drawdown: USDCHF=X at -11.52% (Threshold: -3.0%)
+    - Drawdown: AUDUSD=X at -10.05% (Threshold: -3.0%)
+    - Drawdown: USDCAD=X at -5.20% (Threshold: -3.0%)
+
+  * High Volatility (2):
+    - High Vol: GBPUSD=X ratio 78.4% (Threshold: 70.0%)
+    - High Vol: USDCAD=X ratio 76.1% (Threshold: 70.0%)
+
+--- 3. MACROECONOMIC ANALYSIS ---
+
+  Interest Rates:
+    - USD: 4.33%
+    - EUR: 2.50%
+
+--- 4. MARKET ANALYSIS BY SESSION (SIMULATED ACTIVITY WEIGHT) ---
+
+  Asia (22:00-08:00 UTC):
+    - USDJPY=X: Activity Weight = 0.60
+    - AUDUSD=X: Activity Weight = 0.60
+    - EURUSD=X: Activity Weight = 0.10
+
+  Europe (07:00-16:00 UTC):
+    - EURUSD=X: Activity Weight = 0.70
+    - GBPUSD=X: Activity Weight = 0.70
+    - USDCHF=X: Activity Weight = 0.70
+
+  America (13:00-22:00 UTC):
+    - USDCAD=X: Activity Weight = 0.60
+    - EURUSD=X: Activity Weight = 0.20
+    - USDJPY=X: Activity Weight = 0.20
+
+--- 5. RECOMMENDED ACTIONS ---
+
+  * Consider potential positions based on top recommendations: GBPUSD=X (NEUTRAL), USDCAD=X (NEUTRAL), EURUSD=X (NEUTRAL).
+  * Review/reduce exposure on pairs hitting significant drawdown thresholds.
+  * Be cautious with pairs showing unusually high volatility; consider smaller position sizes.
+  * Note Bollinger Band breakouts as potential entry/exit signals or volatility indicators.
+
+--- 6. VISUALIZATIONS ---
+
+  - Network Graph: Not generated or failed.
+  - Trend Visuals: Saved to mhgna_forex_20250413_000000_trends.png
+
+============================================================
+End of Report
+============================================================

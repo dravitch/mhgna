@@ -1,0 +1,78 @@
+============================================================
+ MHGNA FOREX ANALYSIS REPORT - 2025-04-21 00:00
+============================================================
+
+--- 1. TOP FOREX PAIR RECOMMENDATIONS ---
+            Rank  Score Direction Momentum Stability Carry Score Real Rate Diff Return 30d Optimal Session
+Forex Pair                                                                                                
+EUR/GBP        1  0.619   NEUTRAL    0.000    12.368       0.000          0.000      2.84%          Europe
+GBP/USD        2  0.592   NEUTRAL    0.000    11.094       0.000          0.000      2.65%          Europe
+EUR/USD        3  0.588   NEUTRAL    0.000     8.916       0.000          0.000      5.58%          Europe
+USD/CAD        4  0.551   NEUTRAL    0.000    12.163       0.000          0.000     -3.34%         America
+EUR/JPY        5  0.550   NEUTRAL    0.000     9.980       0.000          0.000      0.62%            Asia
+
+  Interpretation Notes:
+  - Score: Overall attractiveness based on combined metrics.
+  - Direction: Suggested trade direction (LONG/SHORT) based on momentum.
+  - Centrality: Importance within the network.
+  - Momentum: Recent trend strength.
+  - Stability: Inverse volatility (higher is more stable).
+  - Carry Score: Risk-adjusted interest rate differential.
+  - Real Rate Diff: Interest diff minus inflation diff.
+  - Optimal Session: Session with highest simulated activity weight.
+
+--- 2. ACTIVE ALERTS ---
+
+  * Drawdown (11):
+    - Drawdown: USD/JPY at -12.18% (Threshold: -3.0%)
+    - Drawdown: USD/CHF at -11.50% (Threshold: -3.0%)
+    - Drawdown: AUD/USD at -7.89% (Threshold: -3.0%)
+    - Drawdown: USD/CAD at -5.83% (Threshold: -3.0%)
+    - Drawdown: NZD/USD at -6.56% (Threshold: -3.0%)
+    - ... (and more)
+
+  * High Volatility (6):
+    - High Vol: EUR/USD ratio 80.6% (Threshold: 70.0%)
+    - High Vol: GBP/USD ratio 79.9% (Threshold: 70.0%)
+    - High Vol: USD/CAD ratio 74.4% (Threshold: 70.0%)
+    - High Vol: EUR/JPY ratio 88.1% (Threshold: 70.0%)
+    - High Vol: EUR/CHF ratio 79.3% (Threshold: 70.0%)
+    - ... (and more)
+
+--- 3. MACROECONOMIC ANALYSIS ---
+
+  Interest Rates:
+    - USD: 4.33%
+    - EUR: 2.50%
+
+--- 4. MARKET ANALYSIS BY SESSION (SIMULATED ACTIVITY WEIGHT) ---
+
+  Asia (22:00-08:00 UTC):
+    - USD/JPY: Activity Weight = 0.60
+    - AUD/USD: Activity Weight = 0.60
+    - NZD/USD: Activity Weight = 0.60
+
+  Europe (07:00-16:00 UTC):
+    - EUR/USD: Activity Weight = 0.70
+    - GBP/USD: Activity Weight = 0.70
+    - USD/CHF: Activity Weight = 0.70
+
+  America (13:00-22:00 UTC):
+    - USD/CAD: Activity Weight = 0.60
+    - USD/MXN: Activity Weight = 0.60
+    - EUR/USD: Activity Weight = 0.20
+
+--- 5. RECOMMENDED ACTIONS ---
+
+  * Consider potential positions based on top recommendations: EUR/GBP (NEUTRAL), GBP/USD (NEUTRAL), EUR/USD (NEUTRAL).
+  * Review/reduce exposure on pairs hitting significant drawdown thresholds.
+  * Be cautious with pairs showing unusually high volatility; consider smaller position sizes.
+
+--- 6. VISUALIZATIONS ---
+
+  - Network Graph: Not generated or failed.
+  - Trend Visuals: Saved to mhgna_forex_20250421_000000_trends.png
+
+============================================================
+End of Report
+============================================================
