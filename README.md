@@ -20,40 +20,40 @@ The system provides detailed reports, visualizations (e.g., dependency networks,
 ```
 mhgna/
 │
-├── docs/                             # Documentation essentielle
-│   ├── crypto-user-guide.md         # Guide utilisateur pour crypto
-│   └── forex-user-guide.md          # Guide utilisateur pour forex
+├── docs/                           # Essential documentation
+│   ├── crypto-user-guide.md        # User guide for crypto
+│   └── forex-user-guide.md         # User guide for forex
 │
-├── src/                              # Code source principal
-│   ├── crypto/                      # Code source pour crypto
-│   │   └── mhgna-compiled.py       # Script principal pour crypto
-│   ├── forex/                      # Code source pour forex
-│   │   ├── dashboard/              # Scripts pour le tableau de bord forex
-│   │   │   └── mhgna-forex-dash.py # Script pour le tableau de bord
-│   │   └── mhgna-forex-grok.py     # Script principal pour l'analyse forex
+├── src/                            # Main source code
+│   ├── crypto/                     # Source code for crypto
+│   │   └── mhgna-compiled.py       # Main script for crypto
+│   ├── forex/                      # Source code for forex
+│   │   ├── dashboard/              # Scripts for the forex dashboard
+│   │   │   └── mhgna-forex-dash.py # Script for the dashboard
+│   │   └── mhgna-forex-grok.py     # Main script for forex analysis
 │   │
-├── tests/                            # Tests essentiels
-│   └── forex/                      # Tests pour forex
-│       └── test-forex-data.py      # Test pour les données forex
+├── tests/                          # Essential tests
+│   └── forex/                      # Tests for forex
+│       └── test-forex-data.py      # Test for forex data
 │
-├── data/                             # Données nécessaires
-│   ├── forex/                      # Données pour forex
-│   │   └── cache/                 # Données en cache
+├── data/                           # Required data
+│   ├── forex/                      # Data for forex
+│   │   └── cache/                  # Cached data
 │   │       ├── cot.json
 │   │       ├── gdp.json
 │   │       └── interest-rates.json
 │   │
-├── reports/                          # Rapports et visualisations récents
-│   ├── crypto/                     # Rapports pour crypto
-│   │   └── trends-20250411.png     # Visualisation récente
-│   ├── forex/                      # Rapports pour forex
-│   │   ├── report-20250421.txt     # Rapport le plus récent
-│   │   └── trends-20250421.png     # Visualisation la plus récente
+├── reports/                        # Recent reports and visualizations
+│   ├── crypto/                     # Reports for crypto
+│   │   └── trends-20250411.png     # Recent visualization
+│   ├── forex/                      # Reports for forex
+│   │   ├── report-20250421.txt     # Most recent report
+│   │   └── trends-20250421.png     # Most recent visualization
 │   │
-├── .gitignore                       # Fichier pour ignorer les fichiers inutiles
-├── LICENSE                          # Fichier de licence (MIT)
-├── README.md                        # Documentation principale
-└── requirements.txt                 # Liste des dépendances
+├── .gitignore                      # File to ignore unnecessary files
+├── LICENSE                         # License file (MIT)
+├── README.md                       # Main documentation
+└── requirements.txt                # List of dependencies
 ```
 
 ## Features
